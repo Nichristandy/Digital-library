@@ -1,0 +1,10 @@
+Sherlock Holmes#SH0001#7
+Ulysses moore1#UM0001#12
+Ulysses moore2#UM0002#10
+Ulysses moore3#UM0003#7
+Ulysses moore4#UM0004#5
+Detective Conan#DC0001#50
+Bobo#BO0001#10
+Kuark#KU0001#30
+Marvel Comic#MC0001#40
+Dilan 1990#DI0001#5
